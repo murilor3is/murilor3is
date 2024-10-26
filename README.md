@@ -1,6 +1,6 @@
 ## Olá, eu sou o Murilo Reis 👋
 - 🌱 Atualmente estou aprendendo Python
-- 👯 Procuro colaborar em empresas
+- 👯 Procuro colaborar em Python, Java, Javascript, HTML & CSS
 - 🤔 Estou procurando ajuda com back-end
 - 📫 Como entrar em contato comigo: murilosouzareis.oficial@gmail.com
 - 😄 Pronomes: Ele / Dele
