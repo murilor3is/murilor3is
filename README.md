@@ -8,7 +8,6 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/murilo.reis23)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-souza-dos-reis-1b569a335/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/murilo.sreis.127/)
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilor3is&show_icons=true&theme=dracula)
 
