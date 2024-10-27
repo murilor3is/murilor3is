@@ -1,37 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d000ff&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d000ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Murilo+Reis;I'm+15+years+old;I+am+from+São+Leopoldo,+RS;I+study+Python+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h2 align="left">🧑 About Me</h2>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=murilor3is&show_icons=true&count_private=true&hide_border=true&title_color=d000ff&icon_color=d000ff&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilor3is&layout=compact&hide_border=true&title_color=d000ff&text_color=ffffff&bg_color=0d1117" />
+###
+
+<p align="left">Olá, me chamo Murilo , desde pequeno sempre fui apaixonado pela tecnologia e o poder que ela possui, estou começando agora no ramo da programação e espero me tornar um desenvolvedor fullstack e realizar grandes projetos para a comunidade, irei postar todo meu desenvolvimento na programação aqui no meu Github.</p>
+
+###
+
+<h2 align="left">🤖 Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-<div align="center">  
-<a href="https://www.instagram.com/murilo.reis23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+###
+
+<h2 align="left">📊 Stats</h2>
+
+###
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{murilor3is}/count.svg" /></p> 
-<br></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=murilor3is&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilor3is&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d000ff&height=120&section=footer"/>
+<h2 align="left">📲 Social Media</h2>
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/murilo-souza-dos-reis-1b569a335/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/murilo.reis23/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="murilosouzareis.oficial@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
