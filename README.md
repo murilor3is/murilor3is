@@ -1,4 +1,4 @@
-              # 👩🏻‍💻 Murilo Reis
+# 👩🏻‍💻 Murilo Reis
 
 **`Desenvolvedor Full-Stack`**
 
@@ -56,13 +56,4 @@ Me chamo Murilo Souza dos Reis, tenho 16 anos e sou natural do Rio Grande do Sul
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=murilor3is&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
