@@ -56,4 +56,4 @@ Me chamo Murilo Souza dos Reis, tenho 16 anos e sou natural do Rio Grande do Sul
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilor3is&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
