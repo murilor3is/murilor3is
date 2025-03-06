@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Murili Souza dos Reis, tenho 16 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Técnico em Informática para Internet na QI. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do Github,
+Me chamo Murilo Souza dos Reis, tenho 16 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Técnico em Informática para Internet na QI. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do Github,
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
